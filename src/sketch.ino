@@ -1,3 +1,8 @@
+// IRremote Arduino Library
+//
+// Copyright (c) 2013 Dave Sieh
+// See LICENSE.txt for details.
+
 #include <IRremote.h>
 
 const int irPin = A3;   // analog input pin 3 (digital 17)
